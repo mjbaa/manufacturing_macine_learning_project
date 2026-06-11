@@ -1,0 +1,8 @@
+feature
+air_temp
+process_temp
+rot_speed
+torque
+tool_wear
+type_L
+type_M
