@@ -1,0 +1,5 @@
+threshold_name,threshold_value
+high_torque,46.8
+high_tool_wear,163.0
+high_air_temp,301.5
+low_rot_speed,1423.0

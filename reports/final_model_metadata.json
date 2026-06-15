@@ -1,0 +1,14 @@
+{
+    "model_name": "LightGBM",
+    "feature_set": "FE_v2_feature_set",
+    "threshold": 0.5,
+    "model_path": "../models/final_lightgbm_fe_v2_model.pkl",
+    "feature_columns_path": "../reports/final_feature_columns.csv",
+    "indicator_thresholds_path": "../reports/final_indicator_thresholds.csv",
+    "test_result_path": "../reports/final_model_test_result_fe_v2.csv",
+    "test_accuracy": 0.99,
+    "test_precision": 0.86,
+    "test_recall": 0.8431372549019608,
+    "test_f1": 0.8514851485148515,
+    "test_roc_auc": 0.9889037740700144
+}
